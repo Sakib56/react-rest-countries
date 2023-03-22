@@ -16,6 +16,7 @@ const Countries = () => {
         <div>
             
             {console.log(countries[0])}
+            <p>Welcome to sakib website</p>
             <h1>Hello from world all countries :{countries.length}</h1>
             <div className='country-container'>
             {countries.map(country => 
