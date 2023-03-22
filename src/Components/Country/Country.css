@@ -1,0 +1,10 @@
+.country{
+    margin: 20px;
+    padding: 20px;
+    border: 3px solid slateblue;
+    background-color: rgba(105, 255, 195, 0.304);
+    color: rgb(226, 30, 193);
+}
+.country img{
+    width: 200px;
+}
